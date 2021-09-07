@@ -1,0 +1,21 @@
+div.pub-image {
+    content: url("../assets/5_Elms_Frontage.jpeg");
+    width: 100%;
+}
+
+div.andrew-image {
+    content: url("../assets/andrew.png");
+    width: 100%;
+}
+
+div.tom-image {
+    content: url('../assets/tom.jpeg');
+    width: 100%;
+}
+
+div.about-text {
+    text-align: center;
+    color: #686868;
+    margin: auto;
+    padding: 0 20px 20px 20px;
+}

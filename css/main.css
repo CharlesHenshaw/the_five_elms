@@ -1,0 +1,149 @@
+*{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h1.page-title {
+    font-size: 4em;
+}
+
+h2 {
+    color: #686868;
+}
+
+header {
+    height: 20vh;
+}
+
+div.header-container {
+    height: 100%;
+}
+
+div.title-container {
+    height: 100%;
+}
+
+div.logo {
+    content:url("../assets/logo.png");
+    padding: 20px;
+    height: 100%;
+}
+
+div.navigation-container {
+    position: absolute;
+    padding-right: 20px;
+    bottom: 0;
+    right: 0;
+}
+
+li.nav-item a.nav-link {
+    font-size: 2em;
+    color: #686868;
+    padding-bottom: 10px;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+li.nav-item {
+    margin-bottom: 10px;
+    border-bottom: solid;
+    border-bottom-color: #fff;
+
+    border-width: thin;
+}
+
+li.nav-item:hover {
+    border-bottom: solid;
+    border-bottom-color: #686868;
+    border-width: thin;
+}
+
+li.navigation-list {
+    display: inline;
+}
+
+div.hero-image {
+    background-image:url("../assets/hero-image.jpeg");
+    background-size: cover;
+    width: 100vw;
+    height:80vh;
+    transition: background 1s ease;
+}
+
+div.hero-image h1 {
+    vertical-align: center;
+    margin: auto;
+}
+
+div.grey {
+    opacity: 1;
+}
+
+.mt-30 {
+    margin-top: 30px!important;
+}
+
+.mt-20 {
+    margin-top: 20px!important;
+}
+
+.mb-20 {
+    margin-bottom: 20px!important;
+}
+
+.pt-40 {
+    padding-top: 40px!important;
+}
+
+div.welcome-container{
+    width: 100%;
+    background-color: #ffffff;
+}
+
+div.welcome-container h1 {
+    color: #686868;
+}
+
+div.welcome-container p {
+    color: #686868;
+    font-size: 18px;
+}
+
+div.gradient-block {
+    content:url("../assets/breaker.png");
+    width:100%;
+}
+
+div.footer-content {
+    width: 100%;
+    background-color: #686868;
+    color: #ffffff;
+}
+
+div.opening-times {
+    padding: 20px;
+    margin: 20px;
+}
+
+div.opening-times i {
+    padding: 5px;
+}
+
+hr {
+    width: 80%;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+hr.title-break {
+    background-color: #ffffff;
+
+}
