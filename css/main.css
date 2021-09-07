@@ -32,7 +32,7 @@ div.title-container {
 }
 
 div.logo {
-    content:url("../assets/logo.png");
+    content:url("../assets/logo.PNG");
     padding: 20px;
     height: 100%;
 }
