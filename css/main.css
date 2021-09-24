@@ -108,12 +108,13 @@ div.welcome-container{
 }
 
 div.welcome-container h1 {
+    font-size: 4em;
     color: #686868;
 }
 
 div.welcome-container p {
     color: #686868;
-    font-size: 18px;
+    font-size: 24px;
 }
 
 div.gradient-block {

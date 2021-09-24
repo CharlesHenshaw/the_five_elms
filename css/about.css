@@ -1,19 +1,20 @@
 div.pub-image {
     content: url("../assets/5_Elms_Frontage.jpeg");
-    width: 100%;
+    width: 80%;
 }
 
 div.andrew-image {
     content: url("../assets/andrew.png");
-    width: 100%;
+    width: 80%;
 }
 
 div.tom-image {
     content: url('../assets/tom.jpeg');
-    width: 100%;
+    width: 80%;
 }
 
 div.about-text {
+    font-size: 18px;
     text-align: center;
     color: #686868;
     margin: auto;
