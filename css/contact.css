@@ -3,10 +3,19 @@
     color: #686868;
     margin: auto;
     padding: 0 20px 20px 20px;
-
 }
 
 div .contact-details {
     text-align: center;
     font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+ul.opening-times {
+    list-style: none;
+}
+
+ul.opening-times li {
+    font-size: 25px;
+    color: #686868;
 }
