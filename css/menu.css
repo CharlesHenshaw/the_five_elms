@@ -1,0 +1,23 @@
+ul.menu-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul.menu-nav li  {
+    display: inline;
+}
+
+ul.menu-nav li a {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 2em!important;
+    color: #ffffff!important;
+    padding-bottom: 10px;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+ul.menu-nav li:hover {
+    text-decoration: underline;
+}

@@ -85,7 +85,7 @@ li.navigation-list {
 }
 
 div.hero-image {
-    background-image:url("../assets/pub.jpeg");
+    background-image:url("../assets/hero.jpg");
     background-size: cover;
     width: 100vw;
     height:80vh;
@@ -175,3 +175,11 @@ div.menu-items p {
     font-size: 1.5em;
 }
 
+ul.opening-times {
+    list-style: none;
+}
+
+ul.opening-times li {
+    font-size: 25px;
+    color: #686868;
+}
